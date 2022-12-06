@@ -27,7 +27,7 @@ jobs:
       - uses: fateyan/action-discord-notifier@v1
         with:
           message-title: New Commits Pushed
-          webhook: https://discord.com/api/webhooks/1049615155522195487/5i1n6R3eZWqNiCVT6Xe_2w8CEwHQRFZ6FG_RYcAaVh5W-TQQBfN3jHIkWnaBQp3GeLLU
+          webhook: https://discordapp.com/api/webhooks/00000000000/secret
 
       # Runs a single command using the runners shell
       - name: Run a notification
